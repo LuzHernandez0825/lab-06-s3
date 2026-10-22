@@ -1,4 +1,4 @@
-##My S3 buckets
+## My S3 buckets
 
 https://public-sfx8bt.s3.amazonaws.com/index.html
 
